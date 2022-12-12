@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lukecurtis93
+- 👀 I’m interested in Laravel, Vue, Kafka & Event Driven/Sourced Architectures
+- 🌱 I’m currently learning Schema Registries & Kotlin.
+- 📫 How to reach me lukesimoncurtis at gmail dot com
